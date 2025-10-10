@@ -5,11 +5,7 @@ This project aims to classify the likely source of pollution (Industrial, Vehicu
 
 ---
 
-## 🚀 Status: Minimum Viable Product (MVP) Submitted
-
-**Final Submission Deadline: Wednesday, October 1, 2025**
-
-Due to the limited timeframe and the requirement to complete external exams, the project has been structured as a functional MVP. The core objectives (ML Model, Geospatial Map, and Dashboard) are complete and functional, based on simulated data.
+## 🚀 Status: Minimum Viable Product (MVP) 
 
 ### Modules Completed:
 * **Module 3 & 4 (Source Labeling and ML Model):** Implemented a multi-class Random Forest Classifier. The dataset was simulated with labeled sources to create a balanced dataset for training and prediction.
